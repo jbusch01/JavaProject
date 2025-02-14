@@ -1,7 +1,7 @@
 Begin
-	Print First Name
-	Print Last Name
-	Print Street Address
-	Print City
-	Print Zip Code
+	Print firstName
+	Print lastName
+	Print streetAddress
+	Print city
+	Print zipCode
 End
